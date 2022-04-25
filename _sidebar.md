@@ -348,6 +348,53 @@
     * [curl命令](Linux/curl命令.md)
     * [top命令](Linux/top命令.md)
 
+* MiniProgram
+    * [山科小站小程序](MiniProgram/山科小站小程序.md)
+    * [QQ小程序支付](Java/QQ小程序支付.md)
+    * [支付宝小程序user_id](MiniProgram/支付宝小程序user_id.md)
+    * [微信小程序校历组件](MiniProgram/微信小程序校历组件.md)
+    * [uniapp小程序迁移到TS](MiniProgram/uniapp小程序迁移到TS.md)
+
+* App
+    * [Nvue/Weex](App/NvueWeex.md)
+
+* PHP
+    * [ThinkPHP5.0 漏洞测试](PHP/ThinkPHP5.0漏洞测试.md)
+    * [PHP验证码识别实例](IMGProcess/PHP验证码识别实例.md)
+
+* Java
+    * [QQ小程序支付](Java/QQ小程序支付.md)
+
+* Security
+    * [简单安全防护](Security/简单安全防护.md)
+    * [OD反汇编EXE添加一个启动时的消息框](Security/OD反汇编EXE添加一个启动时的消息框.md)
+    * [IDA反汇编EXE添加一个启动时的消息框](Security/IDA反汇编EXE添加一个启动时的消息框.md)
+    * [XSS跨站脚本攻击](Browser/XSS跨站脚本攻击.md)
+    * [CSRF跨站请求伪造](Browser/CSRF跨站请求伪造.md)
+    * [SQL注入](Browser/SQL注入.md)
+    * [CSS劫持攻击](Browser/CSS劫持攻击.md)
+    * [ThinkPHP5.0 漏洞测试](PHP/ThinkPHP5.0漏洞测试.md)
+    * [SSRF服务器端请求伪造](Browser/SSRF服务器端请求伪造.md)
+    * [记ByteCTF中的Node题](Security/记ByteCTF中的Node题.md)
+
+* Environment
+    * [VScode配置CMD本地运行环境(2.0)](Environment/VScode配置CMD本地运行环境(2.0).md)
+    * [Recover刷机简介](Environment/Recover刷机简介.md)
+    * [Ubuntu16.04安装QQ机器人](Linux/Ubuntu16.04安装QQ机器人.md)
+    * [将SublimeText加入右键菜单](Environment/将SublimeText加入右键菜单.md)
+    * [手机抓包HTTPS (Fiddler & Packet Capture.md)](Environment/手机抓包HTTPS.md)
+    * [文本选中复制](Environment/文本选中复制.md)
+    * [发布Npm包到GitHub Packages](Environment/发布Npm包到GitHub%20Packages.md)
+    * [斐讯K3C路由器改散热](Environment/斐讯K3C改散热.md)
+    * [解决ufw下pptp客户端连接问题](Environment/解决ufw下pptp客户端连接问题.md)
+    * [建立DNS隧道绕过校园网认证](Environment/建立DNS隧道绕过校园网认证.md)
+
+* IMGProcess
+    * [OpenCV强智教务系统验证码识别](IMGProcess/强智教务系统验证码识别OpenCV.md)
+    * [Tensorflow强智教务系统验证码识别](IMGProcess/强智教务系统验证码识别TensorflowCNN.md)
+    * [YOLOV3目标检测模型训练实例](IMGProcess/YOLOV3目标检测.md)
+    * [PHP验证码识别实例](IMGProcess/PHP验证码识别实例.md)
+
 * LeetCode
     * [全排列](LeetCode/全排列.md)
     * [括号生成](LeetCode/括号生成.md)
@@ -405,3 +452,22 @@
     * [滑动窗口最大值](LeetCode/滑动窗口最大值.md)
     * [汇总区间](LeetCode/汇总区间.md)
     * [替换后的最长重复字符](LeetCode/替换后的最长重复字符.md)
+    
+* Interview
+    * [百度实习生前端面试](Interview/百度实习生前端面试.md)
+    * [腾讯暑期日常实习前端面试](Interview/腾讯暑期日常实习前端面试.md)
+    * [美团暑期日常实习前端面试](Interview/美团暑期日常实习前端面试.md)
+    * [字节跳动暑期日常实习前端面试](Interview/字节跳动暑期日常实习前端面试.md)
+    * [记2021年实习春招历程](MyLife/记2021年实习春招历程.md)
+    * [字节跳动暑期实习前端面试](Interview/字节跳动暑期实习前端面试.md)
+    * [美团暑期实习前端面试](Interview/美团暑期实习前端面试.md)
+    * [蚂蚁暑期实习前端面试](Interview/蚂蚁暑期实习前端面试.md)
+    * [记2022年实习春招历程](MyLife/记2022年实习春招历程.md)
+
+* MyLife
+    * [记一次有意思的种树比赛](MyLife/记一次有意思的种树比赛.md)
+    * [记2021年实习春招历程](MyLife/记2021年实习春招历程.md)
+    * [2021腾讯实习实录](MyLife/2021腾讯实习实录.md)
+    * [记ByteCTF中的Node题](Security/记ByteCTF中的Node题.md)
+    * [记2022年实习春招历程](MyLife/记2022年实习春招历程.md)
+
